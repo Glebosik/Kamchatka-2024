@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">00A551</color>
+    <color name="onPrimary">#00000000</color>
+    <color name="secondary">00A551</color>
+    <color name="onSecondary">00A551</color>
+    <color name="error">FDF3F0</color>
+    <color name="onError">FFDACF</color>
+    <color name="background">FDFDFD</color>
+    <color name="onBackground">FDFDFD</color>
+    <color name="surface">79CFC2</color>
+    <color name="onSurface">3C514E</color>
+    <color name="cardBackground">E7FFF0</color>
+    <color name="shimmerBase">555555</color>
+    <color name="shimmerHighlight">666666</color>
+    <color name="textHint">70CC9D</color>
+    <color name="generalBackground">FEFEFE</color>
+</resources>

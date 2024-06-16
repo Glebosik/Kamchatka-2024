@@ -1,0 +1,12 @@
+__pycache__/
+migrations/
+oopt/
+ssl/
+static/uploads/
+/.env
+tmp/
+venv/
+/insert2.py
+/.cache.sqlite
+config/
+*.jpg
