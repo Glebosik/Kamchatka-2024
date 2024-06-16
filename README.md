@@ -4,9 +4,9 @@
 - Мобильного приложения;
 - Серверного приложения;
 - Веб-приложения.
-## [Мобильное приложение](https://github.com/Glebosik/Kamchatka-2024/tree/main/kamchatka_mobile) <br /> https://github.com/Glebosik/Kamchatka-2024/releases/tag/Android
+## [Мобильное приложение](https://github.com/Glebosik/Kamchatka-2024/tree/main/kamchatka_mobile) <br /> <br />https://github.com/Glebosik/Kamchatka-2024/releases/tag/Android
 Мобильное приложение разрабатывалось на кроссплатформенном фреймворке Flutter. В рамках хакатона была реализована часть функционала из созданного дизайна приложения, достаточная для тестирования основных возможностей решения. Разработка решения на фреймворке Flutter позволяет в будущем отойти от мобильных приложений и перейти к формату PWA.
-## [Веб-приложение](https://github.com/Glebosik/Kamchatka-2024/tree/main/kamchatka_admin) <br /> https://copy-paste-adapt.ru/
+## [Веб-приложение](https://github.com/Glebosik/Kamchatka-2024/tree/main/kamchatka_admin) <br /><br /> https://copy-paste-adapt.ru/
 Веб-приложение для администрации также разрабатывалось на Flutter и включает в себя базовый функционал по работе со спроектированной системой.
 ## [Серверное приложение](https://github.com/Glebosik/Kamchatka-2024/tree/main/kamchatka_backend)
 Серверная часть данного приложения разработана для обработки запросов от мобильного приложения и клиентской веб-версии по технологии RestAPI, Flutter-Flask.
